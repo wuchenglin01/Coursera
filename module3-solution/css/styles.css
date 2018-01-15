@@ -1,0 +1,42 @@
+body {
+  font-size: 16px;
+  color: #000;
+  background-color: #ffffff;
+  font-family: 'Oxygen', sans-serif;
+}
+#header-nav {
+	background-color: #BAC0C0;
+}
+h1 {
+  padding: 0px 0px 0px 40px;
+}
+
+section {
+  background-color: gray;
+  height: 700px;
+  font-family: Helvetica;
+  box-sizing: border-box;
+  overflow: auto;
+  margin: 20px
+}
+h2 {
+  	font-size: 1.2em;
+  margin: 10px;
+  padding: 0;
+  display: block;
+  font-family: Helvetica;
+  color: black;
+}
+p {
+  clear: right;
+  padding: 0px 10px 10px 10px;
+}
+
+#nav-list {
+	text-align: center;
+	background-color: #fffff9;
+	margin-right: 0px;
+	margin-left: 0px;
+	margin-bottom: 0px;
+	margin-top: 0px;
+}
